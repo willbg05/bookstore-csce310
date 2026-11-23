@@ -3,3 +3,10 @@
 
 # Virtual Environment
 .venv/
+
+# .DS_Store files
+**.DS_Store
+
+# VSCode settings
+/.vscode
+
